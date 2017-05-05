@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="course_arrays">
+        <item>Free</item>
+        <item>IoT</item>
+        <item>Compiler</item>
+        <item>Security</item>
+        <item>Seminar</item>
+    </string-array>
+</resources>

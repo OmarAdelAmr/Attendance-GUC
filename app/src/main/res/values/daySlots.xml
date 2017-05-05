@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="slot_arrays">
+        <item>1st Slot</item>
+        <item>2nd Slot</item>
+        <item>3rd Slot</item>
+        <item>4th Slot</item>
+        <item>5th Slot</item>
+    </string-array>
+</resources>

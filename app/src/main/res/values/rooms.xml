@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="room_arrays">
+        <item>C6.104</item>
+        <item>C7.210</item>
+        <item>C7.104</item>
+        <item>C7.105</item>
+        <item>C7.110</item>
+    </string-array>
+</resources>
